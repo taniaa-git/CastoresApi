@@ -67,5 +67,5 @@ Este proyecto es una API construida con Spring Boot, diseñada para administrar 
     ('ROLE_WAREHOUSE');
   ```
   
-  
+  Nota: El proyecto esta con docker ya que uso linux y se adjuntan los archivos necesarios.
 
